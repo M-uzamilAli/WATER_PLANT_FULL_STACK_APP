@@ -248,6 +248,3 @@ A single-page tabbed dashboard (`App.jsx`) with five sections — **Customers**,
 
 ---
 
-## 📄 License
-
-_Add a license here if you intend to open this repository up for reuse._
