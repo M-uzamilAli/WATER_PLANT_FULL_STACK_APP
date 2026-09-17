@@ -128,7 +128,7 @@ DB_CONFIG = {
 }
 ```
 
-**Before deploying anywhere beyond your own machine, move these into environment variables** (e.g. via `python-dotenv`) rather than committing real credentials. This is the single most important pre-deployment change — see [Known Limitations](#-known-limitations--suggested-improvements).
+**Before deploying anywhere beyond your own machine, move these into environment variables** (e.g. via `python-dotenv`) rather than committing real credentials. This is the single most important pre-deployment change.
 
 ---
 
